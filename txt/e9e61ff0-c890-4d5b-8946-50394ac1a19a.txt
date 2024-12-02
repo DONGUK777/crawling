@@ -1,0 +1,32 @@
+포지션 및 자격요건
+소프트웨어 엔지니어
+(Appilcation Engineer)
+담당업무
+ㆍ고객 요구사항 분석 및 MS Solution Architecture 설계
+ㆍMS Power Apps를 활용한 Customized Application 개발
+ㆍAzure Web App을 이용한 웹 솔루션 설계 및 구현
+ㆍ사용자 인터페이스(UI) 및 사용자 경험(UX) 최적화
+ㆍAPI 연동 및 데이터 통합 및 전처리 / DB 연계 개발
+ㆍ성능 개선 및 최적화 작업 및 버그 수정 및 기능 추가
+
+자격요건
+ㆍ학력 : 초대졸이상 
+ㆍ경력 : 신입·경력3년 이상
+ㆍ본 포지션은 어플리케이션 엔지니어와 소프트웨어 엔지니어의 역할이 혼합된 포지션으로, MS 솔루션을 활용한 응용 프로그램 개발뿐만 아니라 시스템 설계 및 구현, 데이터 통합 등의 폭넓은 기술적 역량을 필요로 함
+
+우대사항
+ㆍFull Stack (Front-End & Back-End) 개발 가능하신 분
+ㆍJavaScript 프레임워크(React, Angular 등) 및 서버사이드 개발(Node.js, .NET 등) 경험
+ㆍ데이터 통합 및 API 연동 경험 보유하신 분
+ㆍC#, JavaScript, HTML/CSS 등의 언어 사용 경험
+ㆍMicrosoft Power Platform (Power Apps, Power Automate) 개발 경험 보유하신 분
+ㆍWeb 개발 또는 Application 개발이 가능하신 분
+ㆍClient와의 산업적 특성 이해와 업무 이해 기반 Application 개발이 가능하신 분
+ㆍClient와의 커뮤니케이션 가능하신 분과 협업이 가능하신 분
+
+전형절차
+ㆍ서류전형 > 1차면접 > (2차면접) > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+
+유의사항
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.

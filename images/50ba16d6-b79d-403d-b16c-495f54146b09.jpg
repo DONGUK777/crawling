@@ -1,0 +1,22 @@
+<br>
+<br>
+<center>
+<h2>
+The request / response that are contrary to the Web firewall security policies have been blocked.
+</h2>
+<table>
+<tr>
+<td>Detect time</td>
+<td>2024-11-29 10:56:36</td>
+</tr>
+<tr>
+<td>Detect client IP</td>
+<td>121.134.46.23</td>
+</tr>
+<tr>
+<td>Detect URL</td>
+<td>http://file2.jobkorea.co.kr/net/mng/downimage/corpeditor</td>
+</tr>
+</table>
+</center>
+<br>

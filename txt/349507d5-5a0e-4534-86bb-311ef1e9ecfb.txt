@@ -1,0 +1,82 @@
+ICT그룹(ICT/정보보호 부문) 경력직 공개채용 
+- ICT인프라 엔지니어
+포지션 및 자격요건
+ICT인프라 엔지니어
+  담당업무 
+ㆍ인증인가 시스템 개발 및 운영
+    - 통합인증, 공동인증, 대외인증, 간편인증 시스템 운영
+    - 권한관리 시스템 운영
+    - SSO 운영
+    - RestFull API 관리
+ㆍSoftware Architect
+    - WEB/WAS운영
+    - IMS/TP 미들웨어 운영
+    - Container / Kubernetes 운영
+    - 모니터링 솔루션 운영
+    - 로그 시스템 운영
+    - Redis 캐쉬 운영
+ㆍSolution Architect
+    - 솔루션 아키텍트 설계
+    - 성능 모니터링 및 최적화
+    - 미들웨어 및 컨테이너 운영
+
+필요역량 및 경험
+ㆍ인증인가 시스템 개발 및 운영
+    - 고객, 직원 로그인, 사용자 관리 등 인증 보안시스템 개발 및 운영 경험
+    - 고가용, 대량 트래픽 처리를 필요로 하는 서비스 개발 및 운영 경력 3년 이상
+    - 금융권 보안 및 규제에 대한 이해 
+    - RestFul API 설계 및 개발, 운영 경험
+    - TCP/IP , HTTP 프로토콜에 대한 개발 및 운영 경험
+    - CI/CD 솔루션 사용 경험 ( Git, Jenkins 등)
+    - 미들웨어 및 컨테이너 운영 경험
+    - 인증 아키텍쳐 설계 및 개발 운영
+    - OAuth 2.0 기반 JWT토큰을 이용한 대고객서비스 운영 경험
+    - Oracle, JAVA, Spring Framework, REST API 등
+    - OAuth2.0, SSO
+ㆍSoftware Architect
+    - MSA기반 Spring Boot 개발 및 운영 경력 8년 또는 그에 준하는 경험
+    - Java 기반 Online/Batch 개발 표준 설계 경력 8년 또는 그에 준하는 경험
+    - Rest API 설계 경험
+    - JVM 기반 애플리케이션 성능 최적화 경험
+    - SpringBoot, java, MSA아키텍쳐
+ㆍSolution Architect
+    - AA(Application Architect), SA(Service Architect) 관련 경력 3년 이상
+    - 오픈소스 기반 솔루션(Apache, Tomcat, Redis, ELK, Grafana) 을 이용한 
+       시스템 설계, 구축, 운영 경험
+    - 모니터링 시스템(APM) 설계, 운영 경험
+    - 로그, 알람 표준화 경험
+    - 대용량 시스템 트러블슈팅, 성능 개선 및 최적화 경험
+    - 운영 자동화, 운영 프로세스 개선 경험
+    - 컨테이너(kubernetes) 기반 업무 경험
+
+우대사항
+ㆍ인증인가 시스템 개발 및 운영
+    - SSO , EAM 권한관리 대한 개발 및 운영 경험
+    - PKI/전자서명/OTP 솔루션 연동 개발 및 운영 경험
+    - Front-end 개발 및 운영 경험
+    - 컨테이너(kubernetes) 기반 업무 경험
+ㆍSoftware Architect
+    - 금융기관 IT 개발/운영 경험있는 분
+    - 클라우드 및 k8s에 대한 서비스 운영 경험
+    - 프레임워크 기반 솔루션 연계 경험
+ㆍSolution Architect
+    - CKA, CKAD, CSP 자격증 등 Cloud 관련 자격증 보유자 선호
+    - Spring boot 기반 개발 경력
+
+지원자격
+ㆍ국내/해외 4년제 대학교 이상 졸업자
+ㆍ남성의 경우 군필 또는 면제자
+ㆍ해외여행에 결격 사유가 없는자
+ㆍ당사 사규상 채용에 결격 사유가 없는 자
+
+우대사항
+ㆍ「장애인고용촉진 및 직업재활법」에 의한 장애인
+ㆍ「국가유공자 등 예우 및 지원에 관한 법률」에 의한 취업보호대상자
+
+기타사항
+ㆍ접수기간 : 2024. 11. 14 - 2024. 12. 01  23:59
+ㆍ접수방법 : 당사 채용 홈페이지 지원 
+ㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.
+
+
+   기업 채용 홈페이지 바로가기 click

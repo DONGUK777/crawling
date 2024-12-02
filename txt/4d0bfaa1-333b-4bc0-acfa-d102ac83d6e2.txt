@@ -1,0 +1,37 @@
+모집분야 담당업무 / 자격조건 / 우대사항
+
+
+
+
+
+
+
+
+
+LLM 앱 개발
+엔지니어
+
+신입 : 00명
+경력 : 00명
+담당 업무
+- LLM 모델을 활용한 AI 서비스 개발 (Prompt Engineering / RAG/  LangGraph)
+- FastAPI를 사용한 백엔드 서비스 구축 및 API 개발
+- Kubernetes(K8s) 환경에서 AI Agent / FastAPI 배포 및 운영
+- SI 프로젝트의 요구 사항 분석 및 솔루션 개발
+자격 요건
+- 대졸 (컴퓨터 공학, 소프트웨어 공학, AI 관련 전공 우대)
+- Python 언어에 대한 깊은 이해 및 개발 경험
+- API 개발 경험 (FastAPI, Flask 등)
+- 클라우드 환경 또는 컨테이너화 기술(Kubernetes, Docker) 사용 경험
+- LLM 및 AI Agent 관련 기술에 대한 기본적인 이해
+- 문제 해결 능력과 팀워크, 소통 능력
+우대 사항
+- LLM 모델 서빙 개발 경험
+- Large Scale Web Application 개발 경험
+- K8s 및 Cloud에서 Application을 개발 및 운영 경험
+- AI 모델 및 LangGraph 사용 경험
+- 대규모 언어 모델(LLM) 관련 프로젝트 경험
+- React와 Chakra를 이용한 웹 UI 개발 경험
+
+사용 기술 
+- Python, FastAPI, LangChain, LangGraph, PostgreSQL, Redis, K8s, Linux, Git

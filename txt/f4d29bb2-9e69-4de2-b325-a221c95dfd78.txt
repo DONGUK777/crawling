@@ -1,0 +1,89 @@
+포지션 및 자격요건
+AI Engineer
+( ○명 )
+담당업무
+- 여러 도메인에 걸쳐 첨단 AI 모델을 개발하고 구현(이는 자연어 처리 (NLP), 자동 음성 인식 (ASR), 텍스트 음성 변환 (TTS), 컴퓨터 비전 (CV) 등을 포함합니다.)
+- 의도 감지, 감정 분석, 음성 합성, 이미지 인식 등 다양한 응용 프로그램을 위해 기계 학습 모델을 설계하고 적용하며 훈련.
+- 우리의 AI 시스템에서 성능 향상을 위해 LLMs 및 기타 기본 모델 (ASR, TTS 또는 CV)을 최적화하고 세밀하게 조정.
+- AI 능력을 강화하기 위해 외부 지식 출처를 통합.
+- AI 서비스를 위한 RESTful API를 개발하고 유지보수.
+- 다국적 및 다모드 AI 프로젝트에 참여.
+- 음성 합성에서 감정 표현 및 스피커 적응 및 구현.
+- 대표적인 학습 응용 프로그램과 전 세계 스타일 토큰 처리 개발.
+- 스피커 감지, 다중 스피커 인식 및 소음 제거 기능을 갖춘 ASR 시스템 개선.
+- Develop and implement advanced AI models across multiple domains, including Natural Language Processing (NLP), Automatic Speech Recognition (ASR), Text-to-Speech (TTS), and Computer Vision (CV)
+- Design, apply, and train machine learning models for various applications such as intent detection, sentiment analysis, speech synthesis, and image recognition.
+- Optimize and fine-tune LLMs and other base models (ASR, TTS or CV) used in our AI systems for improved performance 
+- Incorporate external knowledge sources to enhance AI capabilities 
+- Develop and maintain RESTful APIs for AI services 
+- Work on multilingual and multi-modal AI projects 
+- Implement emotion expression and speaker adaptation in speech synthesis 
+- Develop representative learning applications and global style token processing 
+- Enhance ASR systems with speaker detection, multi-speaker awareness, and denoising capabilities 
+
+필요 자격 및 기술 
+- 다음 분야 중 적어도 하나에 대한 전문 지식: 자연어 처리 (NLP), 자동 음성 인식 (ASR), 텍스트 음성 변환 (TTS), 또는 컴퓨터 비전 
+- 여러 AI 도메인에서 학습하고 작업할 의지 
+- Python, C++, javascript 등 AI 개발 언어에 능숙함 
+- PyTorch, TensorFlow, ONNX 등 딥 러닝 프레임워크 경험 
+- Linux에서의 AI 개발 환경 근무 경험 
+- AI 관련 분야에서 2년 이상의 근무 경험 
+- Expertise in at least one of the following areas: Natural Language Processing (NLP), Automatic Speech Recognition (ASR), Text-to-Speech (TTS), or Computer Vision 
+- Willingness to learn and work in multiple AI domains 
+- Proficiency in AI development languages such as Python, C++, and javascript 
+- Experience with deep learning frameworks like PyTorch, TensorFlow, and ONNX 
+- Work experience in an AI development environment on Linux 
+- More than 2 years of experience in AI-related fields 
+
+우대사항
+- 상업용 자연어 처리 도구 및 모델 경험 (예: OpenAI API, Hugging Face) 
+- 대형 언어 모델 및 기본 모델 프롬프트 및 작업 전문 지식 
+- 모델 최적화 기술에 대한 지식 
+- 컨테이너화 및 오케스트레이션 경험 (Docker, Kubernetes) 
+- 네트워크 통신 프로토콜에 대한 익숙함 (WebSocket, gRPC, 메시지 큐) 
+- Experience with commercial natural language processing tools and models (e.g., OpenAI API, Hugging Face) 
+- Expertise in large language models and foundational model prompts and tasks 
+- Knowledge of model optimization techniques 
+- Experience with containerization and orchestration (Docker, Kubernetes) 
+- Familiarity with network communication protocols (WebSocket, gRPC, message queues) 
+Full Stack Developer
+( ○명 )
+담당업무
+- AI 모듈 기반 소프트웨어 front-end/back-end 개발
+- 기존 backend의 새로운 기능 개발 
+- 스택의 일부를 리팩터링하여 유지 관리 및 확장성 개선 
+- 팀원의 코드를 검토 및 요령 공유 
+- Developing AI module-based software front-end/back-end 
+- Developing new features for an existing backend 
+- Refactor parts of the stack to improve maintainability and scalability 
+- Reviewing teammates` code and sharing tips and tricks 
+
+필요 자격 및 기술 
+- Git 사용 경험 
+- 클라우드 시스템 (AWS, GCP, Microsoft)에 대한 이해와 경험 
+- Docker 사용 경험 
+- Python + gRPC 경험 
+- Python +Flask/FastAPI/Tornado 경험 
+- Python +WebSockets 경험 
+- DB (Postgres, MySql, mongoDB, CouchDB, Redis, memcached) 경험 
+- Experience using Git 
+- Understanding and experience with crowd systems (AWS, GCP, Microsoft) 
+- Experience with Docker 
+- Experience with python + gRPC 
+- Experience with python +Flask/FastAPI/Tornado 
+- Experience with python +WebSockets 
+- Experience with db (Postgres, MySql, mongoDB, CouchDB, Redis, memcached) 
+
+우대사항
+- 4년 이상의 소프트웨어 프로그래밍 경험 (fullstack, front-end, back-end) 
+- Python, javascript, Objective-C, PHP, C/C++, Ruby, C#, GO 개발 경험 
+- 4+ years of software programming experience (fullstack, front-end, back-end) 
+- Experience with Python, javascript, Objective-C, PHP, C/C++, Ruby, C#, GO development 
+
+전형절차
+ㆍ서류전형 > 1차면접 > 2차면접 > 임원면접 > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+
+유의사항
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.
+ㆍ제출서류: 영문 이력서 (필수)

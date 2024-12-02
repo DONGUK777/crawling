@@ -1,0 +1,35 @@
+Public Cloud  Engineer 
+㈜유더블유에스는 2005년에 설립된 회사로 자본금 11억원, 매출액 242억 7천만, 사원수 71명 규모의 중소기업입니다. 서울 강남구 삼성로100길 18 (삼성동)에 위치하고 있으며, 엔터프라이즈 비즈니스 통합, 클라우드 서비스 통합, 엔터프라이즈 데이터 매니지먼트사업을 하고 있습니다.
+포지션 및 자격요건
+클라우드 엔지니어
+( 1명 )
+담당업무
+1. Public Cloud Engineer
+AWS, Azure, NCP, Google 등 Public Cloud Engineer
+K8s, EKS, AKS Cluster 운영 가능자
+Python, YMAL 등 Sctipt 작성 가능자
+Linux, Windows 등 OS 운영 경험자
+
+
+스킬
+ㆍAWS, Azure, NCP, kubernetes, EKS, AKS, YAML, Python 
+
+핵심역량
+ㆍ 성실성, 꼼꼼함, 적응성, 계획성, 협동심
+
+자격요건
+ㆍ학력 : 초대졸이상
+ㆍ경력 : 경력2년↑
+
+우대사항
+AWS, Azure 등 Public Cloud 자격증 소지자 우대  
+Kubernetes 관련 자격증 소지자 우대
+Java 및 Python 프로그래밍 언어 사용 가능
+AWS, Azure Cloud의 Data Analytics 관련 엔지니어링 가능자
+
+전형절차
+ㆍ서류전형 > 1차면접 > 2차면접 > 임원면접 > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+
+유의사항
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.

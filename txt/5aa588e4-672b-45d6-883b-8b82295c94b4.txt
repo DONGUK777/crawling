@@ -1,0 +1,259 @@
+모집분야 및 자격요건
+영업부문
+모집분야 구분 자격요건 및 우대사항 담당업무 근무지
+해외영업 인턴
+(정규직
+전환형)
+[자격요건]
+학사학위 이상 소지자
+영어 실무 가능자
+경력 : 3년 이하
+[우대사항]
+생물학 및 생명과학 관련 전공자
+긍정적인 마인드 보유자
+유전체 분석 서비스 컨설팅(NGS, CES)
+고객대응 및 관리
+시장조사 및 신규고객 발굴
+유전자 관련 학회 참석 및 마케팅 활동
+역삼동
+국내영업 인턴
+(정규직
+전환형)
+[자격요건]
+학사학위 이상 소지자
+[우대사항]
+생물학 관련 전공자
+국내영업(Sequencing, Oligo, Gene합성, 전방사업)
+신규거래처 발굴 및 고객관리
+가산동
+수행(Sequencing)부문
+모집분야 구분 자격요건 및 우대사항 담당업무 근무지
+유전자 변형
+마우스(GEM)
+실험 인턴
+(정규직
+전환형)
+[자격요건]
+학사학위 이상 소지자
+생물학 및 생명과학 관련 전공자
+[우대사항]
+대량의 유전자형 분석 경험자
+벡터 클로닝 숙련자
+GEM 유전자 구조 분석
+대량의 유전자형 분석
+CRISPR/Cas9 관련 제품 제작 및 공급
+벡터 클로닝
+sgRNA 합성
+등촌동
+Oligo수행 인턴
+(정규직
+전환형)
+[자격요건]
+학사학위 이상 소지자
+(생명공학 또는 화학 전공자)
+[우대사항]
+석사학위 이상 우대
+생명공학 관련 실험 경험자 우대
+일반 올리고 합성, 수행, QC, 출하
+특수 올리고 합성
+교대 근무 투입
+기타 실험 업무
+가산동
+임상수행 인턴
+(정규직
+전환형)
+[자격요건]
+학사학위 이상 소지자
+(생물학 또는 생명과학 전공자)
+[우대사항]
+석사학위 이상 우대
+분자생물학/분석 실험 경험자
+핵산 추출 및 QC 관련 업무 경험자
+분자 진단 및 NGS 관련 업무 경험자
+서비스 수주업무 관련 경험자
+DNA 추출, 검체분석 및 수주관리
+NGS 및 임상시험 관련
+가산동
+NGS수행 인턴
+(정규직
+전환형)
+[자격요건]
+학사학위 이상 소지자
+(생물학 또는 생명과학 전공자)
+[우대사항]
+Sequencing 및 NGS 관련 업무 경력
+분자생물학실험 경험자
+illumina sequencing operation
+library QC, qPCR Library Quantification
+가산동
+정보지원부문
+모집분야 구분 자격요건 및 우대사항 담당업무 근무지
+JAVA개발 경력
+[자격요건]
+학사학위 이상 소지자
+경력 : 5년 이상
+Java/JSP 웹 어플리케이션 개발 역량 보유자
+SQL 작성 및 RDBMS 활용 능력 보유자
+[우대사항]
+Spring Framework경험자
+(전자정부프레임워크 경험자)
+웹서버(Apache, Tomcat) 활용 경험자
+업무 분석 및 설계 가능자
+외국어(일어/영어) 가능자
+컴퓨터공학, 생물학 전공자
+교육기관 수료자
+본사 및 해외법인 LIMS System 개발 및 운영
+API Backend 서버 프로그램 개발 및 운영
+신규 웹 서비스 개발/고도화 Project 진행
+가산동
+Infra관리 경력
+[자격요건]
+학력무관
+전공무관
+경력 : 3년 이상
+서버(Linux/Windows), 네트워크 운영 경험자
+AD 시스템 및 VPN 운영 경험자
+WEB/WAS 서비스 경험자
+[우대사항]
+IT 관련 학과 전공자
+Windows, Linux Server 관리 경험자
+ISMS, ISO27001 등 정보보안 지식보유자
+각종 솔루션(상용/오픈소스) 사용 경험자
+대규모 인프라 구축 및 운영 경험자
+Linux/Window OS 운영
+서버 및 스토리지 가용성 증대 및 트러블슈팅
+응용 프로그램 운영 및 관리
+WEB/WAS(apache, nginx, tomcat)
+DBMS(mysql, mariadb)
+MS(AD-Active Directory,
+Exchange Mail System)
+보안 시스템 운영 및 관리
+Firewall, VPN, NAC, Vaccine
+가산동
+플랫폼IT개발부문
+모집분야 구분 자격요건 및 우대사항 담당업무 근무지
+IT개발
+(백엔드 개발) 경력
+[자격요건]
+경력 : 3년~8년
+개발언어 : Java, Python
+개발환경 및 도구 : Spring, Mybatis,
+PostgreSQL, MySQL, Git, AWS, Jira,
+Confluence, Slack
+JAVA, Spring 기반 백앤드 개발 경험 및 이해
+다양한 서비스 연계를 위한 REST API 설계 및
+오픈 API 활용 경험자
+MyBatis 활용 및 Configuration 구성
+(Multi Datasource Routing) 경험자
+RDB(PostgreSQL, MySQL 등) 기본 설계 및
+활용 가능자
+[우대사항]
+Kotlin 개발 역량 보유자
+ORM(JPA, QueryDSL) 기술 활용 경험자
+DynamoDB, Redis 등 운영 경험자
+스크립트 언어(python, node) 활용 경험자
+Oauth 개념 및 keycloak 활용자
+클라우드, Linux 환경 운영 경험자
+Git 형상관리 도구를 통한 협업 경험자
+젠톡 서비스 백엔드 개발
+대용량 트래픽 처리를 위한 비동기 데이터 처리
+다양한 서비스 연계를 위한 I/F 개발
+유전자 분석 데이터 처리
+역삼동
+IT개발
+(프론트엔드
+개발)
+[자격요건]
+경력 : 2년~4년
+개발언어 : React(V18), Typescript,
+React-native
+개발환경 및 도구 : Node, Npm, Yarn, Git,
+AWS, Jira, Confluence, Slack
+Javascript(ES2016 이상), HTML, CSS 기반
+개발 경험자
+React(V18) hook을 이용한 Single Page
+Application에 대한 개발 경험자
+http, rest 등 통신 프로토콜 활용 가능자
+[우대사항]
+Typescript 개발 역량 보유자
+React-native 통한 앱 개발 및 경험자
+젠톡 서비스 프론트엔드 개발
+다양한 서비스 연계를 위한 프론트 로직 개발
+유전자 분석 데이터 처리
+IT개발
+(클라우드
+엔지니어)
+[자격요건]
+경력 : 2년~4년
+개발언어 : Python, HCL, Shell Script
+개발환경 및 도구 : Terraform Cloud,
+PostgreSQL, Git, AWS, Jira, Confluence,
+Slack
+AWS 클라우드 환경에 대한 지식보유자
+(서비스, 네트워크, 보안 등)
+Container 환경에 대한 지식보유자
+(ECS, EKS 등)
+HCL 언어적 특성과 활용 경험자
+하이브리드 클라우드 아키텍트에 대한
+지식보유자
+3Tier 아키텍처에 대한 지식보유자
+[우대사항]
+ECS, EKS 등 Container 환경 경험자
+IaC 활용하여 구축 및 운영 경험자
+AWS certification(PROFESSIONAL,
+SPECIALTY)
+Git 활용한 DevOps 이해 및 구축 경험자
+AWS 활용한 다중 계정 관제 시스템 경험자
+(Central CloudWatch 등)
+젠톡의 클라우드 환경 유지 보수 및 서비스 구축
+Terraform을 활용한 재사용성 인프라 코드 개발
+서버리스 아키텍처 구축
+Control Tower 기반의 다중 계정 환경 운영
+ISMS-P, ISO27001, ISO27701 대응
+IT개발
+(서비스 운영)
+[자격요건]
+경력 : 3년~8년
+개발언어 : Java
+개발환경 및 도구 : Spring, Mybatis,
+PostgreSQL, MySQL, Git, AWS, Jira,
+Confluence, Slack
+JAVA, Spring 기반 백앤드 개발 경험자
+다양한 서비스 연계를 위한 REST API 설계 및
+오픈 API 활용 경험자
+MyBatis 활용 및 Configuration 구성
+(Multi Datasource Routing) 경험자
+RDB(PostgreSQL, MySQL 등) 기본 설계 및
+활용 가능자
+[우대사항]
+관리자 기능 개발 및 운영 경험자
+Oauth 개념 및 keycloak 활용 가능자
+클라우드, Linux 환경 운영 경험자
+Git 형상관리 도구를 통한 협업 경험자
+젠톡 운영 이슈 처리
+데일리 통계 데이터 추출 및 관리
+서비스 운영 관련 추가 기능 개발
+관리자 기능 고도화
+총무부문
+모집분야 구분 자격요건 및 우대사항 담당업무 근무지
+총무팀 경력
+[자격요건]
+전문학사학위 이상 소지자
+경력: 3년 ~ 5년
+MS Office 활용 우수자
+[우대사항]
+SAP, EVS 프로그램 활용 경험자
+운전면허 소지자
+꼼꼼하고 책임감이 강한자
+임대차계약 관리 및 입주사 비용 관리
+부동산 및 법인자산 유지 관리
+전사 누적비용 관리
+기타 물품 구매 및 관리
+임직원 복지 및 총무 지원 업무 外
+가산동
+※ 신규사옥 이전 예정
+가산지놈센터 : 2026년 상반기 송도 글로벌 캠퍼스(인천광역시 연수구 송도동 210-2)
+송도 글로벌 캠퍼스 근무가능자
+국가보훈대상자 및 장애인 등 취업보호대상자는 관련법령에 의거하여 우대합니다.
+인턴(정규직 전환형) 지원자의 경우, 2025년 2월 졸업예정자 지원가능
+2024.11.14.(목) ~ 채용시

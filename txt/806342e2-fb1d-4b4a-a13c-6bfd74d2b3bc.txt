@@ -1,0 +1,55 @@
+[Digital Industries] 
+Customer Service - Motion Control 
+(Service Engineer)
+독일 베를린과 뮌헨에 본사를 두고 있는 세계적인 전기전자기업 지멘스는 현재 전 세계 190여 개국에 약 40만명의 직원이 산업, 에너지, 헬스케어분야에서 혁신적인 친환경 기술력을 바탕으로 최첨단 제 품과 솔루션 및 서비스를 제공하고 있습니다. 1960년대에 설립된 한국지멘스는 선진 기술과 글로벌 경험을 바탕으로 다양한 사업 협력과 적극적인 투자, 개발에 앞장서고 있으며, 한국의 우수한 인재 양성을 위해 다양한 산학협력 관계를 맺고, 우수 한 첨단 기술력 확보에 노력하고 있습니다. 한국 산업의 든든한 동반자인 한국 지멘스는 윤리경영의 토대위에 앞으로도 친환경적이고 혁신적인 제품과 솔루션 공급을 위해 최선을 다할 것입니다.
+포지션 및 자격요건
+엔지니어
+( 1명 )
+담당업무
+1. Service & Customer Support
+- International/Domestic Service Request manage : Case dispatch to engineer or to service partners and logging service cases to database.
+- Organizing technical support request from customer for SIEMENS products and field service.
+- Republish service manual, instructions, tools, spare parts and arrange the transportation by service assignment.
+2. Technical Support and Projects
+- Technical application supports, Service issue management for customers.
+- Provides broad scope of technical tasks including installation/commissioning, maintenance and evaluation of customers machines and systems among others.
+- Supports customer remotely and onsite, and provides technical support and quality checking in case of arising issues.
+- Contributes to or conducts the maintenance and improvement of internal tools, equipment, processes, and data repositories for Service Delivery and Operation.
+- Contributes to or executes activities for estimation, planning, and review of technical tasks in support of overall project acquisition, negotiation, planning and management.
+- Contributes to or conducts developments or technical design for service offerings.
+- Provides maintenance training and coaching to End-users and Customers.
+- The technical requirements are as follows:
+   a. CNC / Machine Tools / Factory Automation / Digitalization knowledge.
+   b. System configuration, Application program (PLC, Drive, CNC, etc.) experience.
+   c. Programming Languages skill.
+   d. Knowledge of Operating System / Networking / Database.
+3. Defective parts handling.
+- Organizing warranty / repair for SIEMENS Product to Repair partner - Issuing Job order and follow up.
+- Reporting for warranty repair and manage reports entered by partners.
+- Inspect defective parts and retuning to Lead repair center and checking credit.
+4. Internal Support activities.
+- Taking 1st step of customer`s complaint management - identifying main reason of complaints and relay to right person in charge.
+- Cost allocation / transferring to relevant Tech Business Unit for rendered Technical Supports.
+
+자격요건
+- 신입지원 가능 (경력자인 경우, 1년~15년)
+-  영어 활용 가능자
+-  4년대 졸업필수
+-  공학계열 전공자 (전기, 전자, 기계, 메카트로닉스, IT 관련)
+
+우대사항
+ㆍ국가유공자
+ㆍ장애인
+
+Employment Condition :
+- 고용형태 : 정규직 (수습기간 3개월)
+- 직급 : 경력에 따라 추후 결정
+- 근무지 : 지멘스 창원 사무소
+- 근무시작일 : ASAP
+
+전형절차
+ㆍ서류전형 > 1차면접 > 2차면접 > 임원면접 > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+
+유의사항
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.

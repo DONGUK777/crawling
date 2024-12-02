@@ -1,0 +1,20 @@
+Vision 분야 AI 개발자
+( 1명 )
+담당업무
+ - Video/Image 등 Vision 분야 AI 기술 개발
+ - 실시간 처리 Vision AI 기술 개발
+ - 전체 AI MLOps 시스템 설계, 개발 및 관리
+ - On-Device AI 기술 개발 (Nvidia Jetson Nano, Orin NX, etc.)
+
+자격요건
+ - AI관련 전공 4년제 이상 또는 석사급 이상
+ - 경력 2년 이상
+ - Pytorch, Tensorflow, ONNX, TensorRT 경험이 있으신 분
+ - C/C++, Python에 능통하신 분
+ - AI 기술을 Backend API화하여 시스템 또는 서비스를 개발해본 경험이 있으신 분
+ - 포트폴리오 제출 필수(본인 기여도 / 퇴직사유/ 희망연봉 명시)
+
+우대사항
+ - AI 관련 전공 석사급 이상
+ - 통신 기술에 대한 높은 이해도를 보유하신 분 (Wifi, LoRa, LoRaWAN 등)
+ - 국내 인공지능 경진대회, Kaggle 등 참여해 높은 성적을 거두신 분

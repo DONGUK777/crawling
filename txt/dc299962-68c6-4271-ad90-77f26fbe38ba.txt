@@ -1,0 +1,35 @@
+JLK 자세히 알기
+
+아래 버튼을 클릭하면 해당 링크로 이동합니다.
+       
+
+[JLK 목표]
+
+JLK의 AI기반 뇌졸중 제품군 Platform은 뇌졸중 환자 care 프로세스를 전체적으로 커버할 수 있는
+12개의 각 뇌졸중 제품으로 구성되어 있고, 국제 규격에 맞춰 개발되었습니다.
+
+즉, 생명과 연관된 골든 타임이 중요한 전세계 모든 나라 뇌졸중 환자의 치료 지침에 적용이 가능한 Platform 입니다.
+
+이제 국내의 경험을 바탕으로, 하나하나 단일 제품으로의 세일즈가 아닌 그 국가 전체 대상으로 이러한 개념을 가지고
+Platform 영업을 할 인재를 모시고 있습니다.
+모집분야 업무내용 자격요건 및 우대조건
+AI알고리즘 연구
+(신입/경력)
+전문연구요원대상만
+- Deep Learning/Machine Learning 
+   기반 의료영상 분석 및 진단보조 모델 개발
+- Machine Learning/Medical Image Analysis 분야    Journal/Conference에 논문 발표
+- Medical Image 분야 최신 연구 동향 파악 및 공유
+- 상용화 제품에 대한 연구지원 및 임상적 근거 창출
+[자격요건]
+- Deep Learning/Machine Learning/Computer 
+  Vision/Medical Image 관련 전공 및 학위
+- Deep Learning/Machine Learning/Computer Vision/
+  Medical Image 관련 분야 학회 및 학술지 Publication
+- C/C++, Python 중 1개 이상의 언어 사용 가능
+
+[우대조건]
+- 의료영상 분석 관련 Top-tier 학회 및 학술지 Publication
+- Tensorflow/PyTorch 등 Open Source DL
+- Framework에 대한 Contributor 수준의 구현 경험
+- 데이터기반 진단보조 솔루션 개발 및 상용화 경험

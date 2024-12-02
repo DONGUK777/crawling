@@ -1,0 +1,39 @@
+NPI Manufacturing Engineer 채용
+(개발제품 공정기술) 경력모집(대리~과장급)
+에드워드코리아㈜는 1992년에 설립된 회사로 자본금 25억 2,335만원, 매출액 1조 236억 5,598만원, 사원수 1,406명 규모의 중견기업입니다. 충남 천안시 서북구 차암동에 위치하고 있으며, 진공시스템, 배기가스처리장치,플랜트엔지니어링사업을 하고 있습니다.
+포지션 및 자격요건
+개발 공정/생산기술 
+(NPI Manufacturing)
+담당업무
+1. Responsible for execution new product project with PMO to launch new variants in assembly line successfully with MR (Manufacturing Review), PCP and A&D proceudre in every development step.
+2. BOM set up with new parts list and cost roll new variants with SAP.
+3. Create new SOP and update SOP with new variants and A&D projects.
+4. Take charge of ECDP and EC (Engineering Change), perform cost analysis and control other department for closing ECDP & EC as an Originator/Coordinator.
+5. Improve working safety by eliminating process risk based on Edwards Health and Safety Policy.
+6. Create and control revision history of edward engineering documents such as SOP, 4M change, build sheet, TPM document.
+7. Measure routing time of each product/process and change BOM.
+8. Control standard Jig, Fixture, Equipment and facility and control specification, operation method, scrap to keep assembly quality.
+
+
+자격요건
+ 1. 학사이상, 전기전자/기계설계 등 공학계열 전공
+ 2. AutoCAD, CATIA 등 설계 Tool 사용 가능자
+ 3. 자동차 및 반도체 장비 관련 제조업의 공정 기술/관리, 생산기술/관리 경력 5년 이상
+- Good at computer skills for MS Office
+- Experience with programming languages : C++,C#, JAVA, Python, VBA or others
+- Experience with statistical software : Minitab, R, MATLAB, QDAS or othters
+- Experience with database, query and DB : Access, SQL, PowerBI DAX, Power Query or others
+- PCP process, Lean manufacturing, Layout design & improvment, Standard time, 4M1E(Material, Method, Machine, Man, Environment)
+- TPM, 3D CAD, AutoCAD
+
+우대사항
+ 1. 현장 개선 활동 경험자
+ 2. Automation or smart factory
+ 2. 영어 활용 가능자
+
+전형절차
+ㆍ서류전형 > 면접전형(직무 및 영어역량 Test)  > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+
+유의사항
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.

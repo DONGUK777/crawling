@@ -1,0 +1,38 @@
+2024년 하반기 경력직 공개 채용
+- Technical Support
+포지션 및 자격요건
+Technical Support (TAM) 
+담당업무
+ㆍAzure Cloud 기술지원
+  - 고객의 Cloud환경 기반 Azure Cloud 전환 기술 가이드 제공
+  - Azure Cloud 운영 개선 및 이슈 예방 관리
+  - 고객 정기 기술 미팅 및 Cloud 운영 최적화 지원
+
+경험/역량 
+ㆍAzure Cloud 주요 제품 기술 지원 경험 5년 이상
+  - VM, Network, Storage, Database 등
+ㆍAzure 케이스 오픈, 에스컬레이션 지원 경험 5년 이상
+
+우대경험/역량
+ㆍAzure, AWS, Google 등 Public Cloud의 아키텍처 설계, 재설계, 튜닝, 최적화 경험
+ㆍKubernetes, Teraform, Ansible 등 DevOps와 관련된 개발, 구축, 설계, 운영에
+    핵심 역할로 참여 경험
+ㆍPublic Cloud의 DevOps, logging, Netwoork, Security, 운영 관리 등 구축, 설계,
+    분석 등에 분야별 핵심 역할로 참여 경험
+ㆍAI 기술 지원 경험
+
+근무지
+ㆍ수도권
+
+공통요건
+ㆍ4년제 정규 학사 학위 소지자 
+ㆍ해외여행 및 체류에 결격 사유가 없는 자
+ㆍ남성의 경우 병역필 또는 면제자
+
+기타사항
+ㆍ접수기간 : 2024.11.01 00:00 ~ 2024.11.30 23:59
+ㆍ접수방법 : KT그룹 채용 홈페이지를 통한 온라인 지원
+ㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.
+
+
+   기업 채용 홈페이지 바로가기 click

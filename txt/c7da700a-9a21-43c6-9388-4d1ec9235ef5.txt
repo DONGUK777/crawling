@@ -1,0 +1,68 @@
+하만커넥티드서비시즈인크 
+Sr. Security Engineer(경력)
+하만커넥티드서비시즈인크는 2013년에 설립된 회사로 외국계(외국 법인기타)입니다. 성남시 분당구 야탑동에 위치하고 있으며, Solution Integration, Software Development사업을 하고 있습니다.
+포지션 및 자격요건
+Sr. Security Engineer
+지원링크
+ 
+( ○명 )
+Responsibilities
+The Security Engineer will provide support in the establishing of enterprise-wide security initiatives as required by various applications that compose our corporate and public network. They must have strong oral and written documentation and communication skills, to work with management, auditors and regulators concerning IT business controls and procedures. This position should bring prior analytical problem-solving skills, sound judgment, knowledge and expertise in all areas of IT Security. In addition, demonstrate a technical background and knowledge of system security processes, such as authentication practices, security administration and familiarity with industry standard hardware and software systems.
+Architect, develop and document industry best practices to support company initiatives while meeting performance and availability requirements.
+Collaborate with Product, Operations and Engineering organizations to understand requirements and develop security specifications around project initiatives.
+Research new security technologies and adopt suitable best practices to solve industry obstacles and security threats.
+Provide technical mentoring within the area of expertise and assist other security staff.
+Ensuring confidentiality, availability and integrity of cloud information systems and processes across the cloud infrastructure.
+Audit existing security standards: to include engineering designs, implementation, and guidelines.
+Handles operational problem escalations and vendor concerns related to security.
+Deploy and maintain internal security systems such as IDS/IPS, SIEM, WAF, FIM, DDOS, Threat Intel, SOAR and vulnerability scanners.
+Work with business colleagues to review RFPs, RFIs etc., and provide security and risk-related input into proposals.
+Monitor the external threat environment and information security trends while keeping business leadership informed about information security-related issues and activities potentially affecting the organization.
+Serve as one of the information security subject matter experts for the Incident Response team and assist in escalations of any possible incidents impacting the company.
+Provide guidance on prioritization and remediation of security issues.
+Some travel may be required.
+Qualifications and Requirements
+Minimum 8 to 10 years of experience as Security engineer.
+Must have a solid overall understanding of information technology and information security practices and trends.
+Hands-on Public Cloud experience ? One or more of AWS, Azure, GCP -  desired but not required.
+Provide expertise and guidance to junior engineers in the deployment of security tools.
+Passionate about automation, performance, reliability, visibility, and finding creative solutions to complex security issues.
+Must be an intelligent, articulate and persuasive person who can serve as an effective member of the team and who is able to communicate security-related concepts to a broad range of technical and non-technical staff.
+Understanding of networking concepts such as BGP, VRF and MPLS.
+Ability to work with cross-functional, interdisciplinary teams to achieve tactical and strategic information security goals.
+Experience with security frameworks to include ISO, HIPAA, PCI, HITRUST and NIST
+Excellent written and verbal communication skills, interpersonal and collaborative skills, and the ability to communicate security and risk-related concepts to technical and nontechnical audiences.
+Demonstrable knowledge of cryptographic concepts and techniques, including encryption, hashing, and key management.
+Knowledge of Cloud-unique security risks, API security vulnerabilities and remediation measures.
+Experience with Kubernetes
+Solid understanding of network routers, switches and firewalls. Experience Juniper and Arista equipment preferred.
+Well versed in security hardening for Linux hosts, services, applications, web applications, and database applications.
+Experience using a scripting language for administration, monitoring and automation such as python and bash.
+Proficient in Linux.
+Experience with ansible.
+Experience with open source tooling used to secure resources.
+Strong attention to detail, organizational skills, problem solving, troubleshooting and documentation skills.
+Bilingual in Korean and English -
+Due to the nature of global infrastructure, flexibility on the working hours is required.
+Commuting to the Suwon office will be required weekly as this is a hybrid role. Ideally the candidate should live near Suwon.
+What We Offer (*This is subject to change)
+Medical Check-up (for employee and one dependent)
+Group Life and Medical Insurance
+Pension
+Annual leave, Congratulatory & condolences leave
+Mobile phone usage
+HARMAN Welcome Kit for new joiners
+Be-Brilliant (Harman own awards for employees)
+Employee Entertainment
+Late commute and late meal allowance (Supporting late working employee)
+Breakfast service for early birds
+Benefit point (SK Benepia)
+Samsung Mall (Samsung and Harman product purchase)
+Holiday voucher for Lunar New Year and Chuseok
+
+전형절차
+ㆍ서류전형 > 면접전형 > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+
+유의사항
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.

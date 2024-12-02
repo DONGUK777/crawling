@@ -1,0 +1,27 @@
+[상시채용] R&D - IT System 기획 및 설계
+포지션 및 자격요건
+ 《 IT Infra 구축 》
+IT System 기획 및 설계
+직무상세
+ㆍ프로세스 분석 및 IT 시스템 기획/설계
+ㆍData Warehouse 구축 및 관리 
+ㆍBusiness Intelligence(BI) Tool 기반 데이터 시각화 Tool 개발
+ㆍRobotic Process Automation(RPA) 기반 프로세스 자동화 Tool 개발
+
+지원자격
+ㆍ[학사 이상] 컴퓨터공학, 산업공학 관련 학위 소지자
+ㆍ시스템 분석/설계 경험 보유자
+
+우대사항
+ㆍData Platform 구축 경험 보유자 및 SQL 활용 가능자
+ㆍTableau, PowerBI 등 BI Tool 활용 가능자
+ㆍRPA Tool 기반 프로세스 자동화 환경 구축 경험자
+
+
+기타사항
+ㆍ접수기간 : 2024. 01. 16 ~ 2024. 12. 31 23:59 (상시채용)
+ㆍ접수방법 : 당사 채용 홈페이지 참조 
+ㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.
+
+
+   기업 채용 홈페이지 바로가기 click

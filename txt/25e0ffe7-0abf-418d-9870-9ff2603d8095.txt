@@ -1,0 +1,43 @@
+2024년 하반기 경력직 공개 채용
+- OpenStack Engineer
+포지션 및 자격요건
+OpenStack Engineer 
+담당업무
+ㆍOpenStack 기반 민간, 공공, 금융 분야의 대규모 Public Cloud 설계, 개발, 구축
+  - OpenStack, K8s, SDN, SDS 기술을 활용한 클라우드 설계 및 개발
+  - 서버, 스토리지, 네트워크 등의 IaaS 상품 개발 및 엔지니어링
+  - 범용 하드웨어 기반 Cloud 플랫폼 기술 검증 및 트러블슈팅
+ㆍ차세대 OpenStack 아키텍처 설계 및 개발
+  - 멀티 DC 간 OpenStack 분산 배치 등 차세대 OpenStack 기술 구조 설계 및 검증
+  - SDN (OVS, OVN) 기반 VPC (Vitual Private Cloud) 네트워크 설계 및 개발
+  - OpenStack (VM), K8s (컨테이너) 연결 플랫폼 및 자동화 소프트웨어 개발
+
+경험/역량 
+ㆍOpenStack 설계, 구축, PoC, 운영 경험 3년 이상
+ㆍ서버, 스토리지, 네트워크 등 IaaS 인프라 설계 및 운영 경험 3년 이상
+ㆍ대규모 Public Cloud 엔지니어링을 위한 Technical Architect 역량
+ㆍ신기술, 상용/오픈소스 관련 기술 이해 및 도전 정신
+
+우대경험/역량
+ㆍ차세대 OpenStack 아키텍처 설계 경험 및 SRE(Site Reliability Engineering) 역량
+ㆍOpenStack Neutron, OVS, OVN 등 가상 네트워크 기술 보유
+ㆍK8s 구축 또는 운영 경험
+ㆍOn-Premise, Sovereign, Hybrid Cloud 관련 프로젝트 수행 경험
+ㆍ오픈소스 커뮤니티 활동 및 컨트리뷰션 경험
+ㆍ비즈니스 영어 활용 가능자
+
+근무지
+ㆍ강남구청 본사
+
+공통요건
+ㆍ4년제 정규 학사 학위 소지자 
+ㆍ해외여행 및 체류에 결격 사유가 없는 자
+ㆍ남성의 경우 병역필 또는 면제자
+
+기타사항
+ㆍ접수기간 : 2024.11.01 00:00 ~ 2024.11.30 23:59
+ㆍ접수방법 : KT그룹 채용 홈페이지를 통한 온라인 지원
+ㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.
+
+
+   기업 채용 홈페이지 바로가기 click

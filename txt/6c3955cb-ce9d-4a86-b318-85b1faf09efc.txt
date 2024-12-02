@@ -1,0 +1,55 @@
+앱 백엔드 개발자 채용
+핑퐁㈜는 2018년에 설립된 회사로 2023년 기준 자본금 1억 1,096만원, 매출액 12억 8,432만원, 사원수 5명 규모의 중소기업입니다. 서울 종로구 인사동7길 12 (관훈동, 백상빌딩)에 위치하고 있으며, 플레인 - Playin 메타버스 콘텐츠 플랫폼사업을 하고 있습니다.
+포지션 및 자격요건
+백엔드 개발자
+( 1명 )
+담당업무
+? Server API를 개발 (Nest.js)
+? 프론트 엔지니어, 데이터 분석가, 기획자, 디자이너와 협업하며 서비스 사용성을 개선
+? 정기적인 모니터링을 통해 최적화가 가능한 지점을 찾고 개선
+
+자격요건
+? 3년 이상 node.js 및 프레임워크를 이용해 개발하신 경험
+? 앱 서비스의 설계/개발/성능 최적화 경험이 있으신 분
+? 빌드, 테스트, 배포 자동화 경험이 있으신 분
+? ORM 사용과 도메인 모델링 경험이 있으신 분
+
+
+우대사항
+? Docker, Kubernetes 등의 컨테이너 관련 기술 사용 경험이 있으신 분
+? Redis, Kafka, NoSQL 등을 활용하여 개발하고 운영한 경험이 있으신 분
+? AWS 등의 클라우드 기반 서비스를 개발하고 운영한 경험이 있으신 분
+? 도메인 지식이 부족하더라도 어떻게든 목표를 달성하고자 하는 열정을 가지신 분
+? 유연한 사고와 다른 직군 동료들과 원활히 소통할 수 있으신 분
+
+기타사항 
+?외국인 취업비자 연계 가능 
+
+[Key Responsibilities] 
+? Develop server APIs using Nest.js
+? Collaborate with front-end engineers, data analysts, planners, and designers to      enhance service usability
+? Regularly monitor and identify optimization opportunities for continuous improvement
+
+[Qualifications] 
+? Over 3 year of experience in development using Node.js and related frameworks
+? Experience in designing, developing, and optimizing app services
+? Experience with build, test, and deployment automation
+? Proficiency in using ORM and domain modeling
+
+[Preferred Qualifications] 
+? Experience with container-related technologies such as Docker and Kubernetes
+? Experience in developing and managing applications using Redis, Kafka, NoSQL, etc.
+? Experience with cloud-based services like AWS
+? A passion for achieving goals, even with a lack of domain knowledge
+? The ability to think flexibly and communicate effectively with colleagues from different departments
+
+[Others] 
+? Visa sponsorship for foreigners available
+
+
+전형절차
+ㆍ서류전형 > 임원면접  > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+
+유의사항
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.

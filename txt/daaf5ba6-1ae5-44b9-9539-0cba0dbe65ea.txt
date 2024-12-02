@@ -1,0 +1,54 @@
+에스이에스에이아이코리아 유한회사
+Senior Data Engineer
+포지션 및 자격요건
+Senior Data Engineer 
+( 1명 )
+Role Introduction
+ㆍ SES is seeking a talented Senior Data Engineer to join our team. The successful candidate is committed and dedicated, 
+     responsible, focused, detail-oriented, able to adjust in a fast-paced working environment, collaborate well with other staff 
+     members with a shared vision and demonstrate excellent organizational communication skills.
+     Please submit English & Korean version CV in our job post.
+
+Key Responsibilities
+ㆍIdentify data collection points for battery production lines and develop standardized templates to ensure consistency and 
+    uniformity in data collection
+ㆍResponsible for real-time data collection, preprocessing, and synchronous uploading of data from battery production 
+     lines,  ensuring efficiency and stability in data transmission.
+ㆍContinuously monitor and track the completeness and accuracy of data collection, promptly identify and resolve data 
+    quality issues to ensure data reliability.
+ㆍFamiliar with the infrastructure and processes of existing data lakehouse development. Assist line managers on data 
+    analysis.
+
+Required Qualifications
+ㆍBA degree or higher
+ㆍExperience in data related software development
+ㆍLanguage: Korean (native) & English (working level)
+ㆍat least 4-5 years of experience in data engineering or a related field
+ㆍFamiliar with the basic concepts of data lakehouses and data modeling; actual experience in data lakehouse 
+    development is preferred.
+ㆍProficient in programming languages such as Python and SQL, with practical experience in data analysis and 
+    processing  experience with big data is preferred.
+ㆍFamiliarity and effective use of common relational databases, such as SQL Server and MySQL 
+ㆍAttention to detail, patience, strong communication skills, and the ability to effectively collaborate with cross-functional 
+    teams 
+ㆍCandidates with experience in data collection and analysis for battery production lines are preferred.
+
+Place of Work 
+ㆍUiwang, Gyeonggi Province 
+
+Benefits 
+ㆍPerformance Bonuses & RSUs : Provided for regular employees
+ㆍHousing Allowance or Mileage Support : Offered for employees residing outside the Chungju/Uiwang area
+ㆍFlexible Working Hours : accordance to company policy
+ㆍFull Salary during Probation : 100% of salary paid throughout the probation period
+ㆍPaid Vacation : Provided in accordance with Korean labor laws (halfday/day)
+ㆍSick & Bereavement Leave : Available per company policy
+ㆍHoliday Gifts : Gift certificates for Lunar New Year and Thanksgiving
+ㆍOn-Site Amenities : Pantry area, snacks, and lunch provided for on site employees, Wework space available for remote employees
+
+전형절차
+ㆍ서류전형 > 1차면접 > 2차면접 > 임원면접 > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+
+유의사항
+ㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.

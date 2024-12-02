@@ -1,0 +1,39 @@
+[상시채용] R&D
+- Handling 성능 연구 & 해석 Tool 개발
+포지션 및 자격요건
+ 《 차량/타이어 동역학 》
+Handling 성능 연구 &
+해석 Tool 개발
+직무상세
+ㆍHandling 성능 연구를 위한 예측 기술 및 Tool 개발 
+ㆍ차량 및 타이어 모델 기반 해석 기술 개발
+ㆍSuper Car 전용 타이어 개발 
+  - Sports car, Super car segment Tire 프로젝트 참여
+ㆍ실차 성능 검증을 위한 Nurburgring, Nardo 및 전세계 Proving ground 평가
+ㆍProffesional Driver 동승 후 해석 및 예측 기술 개발 검증 
+ㆍDriving simulator 기반 Driver model 연구 
+ㆍ자동차 OEM Technical Meeting
+
+지원자격
+ㆍ[학사 이상] 동역학/차량동역학/차량제어/해석/다물체동역학 관련 전공자 
+ㆍ관련 연구 경험자 (하기 연구 관련 경험)
+  - MBSE 기반 연구 경험자
+  - FE (Abaqus) 해석 연구 경험자 
+  - CarSim, CarMaker, VI-CRT등 차량동역학 Simulation 연구 경험자 
+  - 차량동역학 Simulation용 샤시모델링 유 경험자 
+  - MF-tyre, F-Tire등 타이어 동역학 연구 경력자
+  - 성능 예측 기반 설계 전개 유 경험자 
+  - Driving simulator 및 HiLS 장비 기반 연구 경험자
+
+우대사항
+ㆍ관련 전공의 석사/박사 학위자 우대
+ㆍ차량동역학, 제어 관련 논문 등재 경험자
+
+
+기타사항
+ㆍ접수기간 : 2024. 01. 16 ~ 2024. 12. 31 23:59 (상시채용)
+ㆍ접수방법 : 당사 채용 홈페이지 참조 
+ㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.
+
+
+   기업 채용 홈페이지 바로가기 click

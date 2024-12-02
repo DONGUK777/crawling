@@ -1,0 +1,277 @@
+세계적인 기술기업 MKS와 함께 성장하고 기술을 통해 세상을 변화시키고 싶은 분들의 많은 관심과 입사 지원을 환영합니다!
+* 회사와 채용에 관한 자세한 정보는 아래 MKS 페이지에서 확인 가능합니다.
+.MKS Instruments : www.mks.com
+.Careers : www.mks.com/careers
+.LinkedIn : www.linkedin.com/company/mks-instruments
+.Atotech an MKS Brand : www.atotech.com/ko
+모집부문
+[MKS Korea]
+Legacy MKS는 가장 오래된 VSD(Vacuum Solutions Division) 사업부와 2016년부터 인수한 PSD(Photonics Solutions
+Division) 사업부를 보유하고 있으며, MKS Korea는 용인/대전에 사업장이 위치하고 있습니다.
+VSD(Vacuum Solutions Division) 사업부 : VSD의 제품 포트폴리오는 압력 및 유량 측정-제어, 가스 및 증기 전달, 가스 구성,
+잔류 가스 분석, 누출 감지, 전력, 오존 생성, 반응성 가스 생성 및 진공 기술 분야에 집중되어 있습니다. 반도체용 플라즈마 생산에 필요한
+전력을 생성하는 RF Generator와 발생한 전력을 손실 없이 반도체 장비로 전달하는 RF Matcher를 개발하는 연구소가 대전에 있습니다
+PSD(Photonics Solutions Division) 사업부 : PSD 사업부는 Newport, Ophir, Spectra-Physics 그리고 ESI 브랜드로 구성되어
+있습니다. Newport의 포토닉스, 모션 포지셔닝 및 광학, Spectra-Physics의 레이저 기술, Ophir의 열화상 광학 분야의 솔루션 그리고
+ESI의 산업용 레이저 기반 설비와 미세 제조 테스트 시스템을 제공합니다.
+모집직무 근무지/
+채용구분 상세직무 지원자격 및 우대사항
+VSD 사업부
+리페어
+테크니션
+(Repair
+Technician)
+(신입/경력) 용인 기흥/
+정규직
+-
+Performs on-site or in-house servicing, repair
+and/or installation of company product.
+-
+Provides technical support to customers on
+operational or maintenance aspects of
+system equipment
+-
+Serves as customer contact on technical and
+service related problems.
+-
+Diagnoses mechanical, hardware, software
+and systems failures, using established
+procedures.
+-
+Determines most cost-effective repair/
+resolution to minimize customer downtime.
+-
+Prepares reports for analysis of product
+failure trends and service ability issues.
+-
+Degree in Electric/Electronic
+Engineering, Semiconductor
+Engineering or related educational
+background preferred.
+-
+None ~ 2 years of related experience.
+-
+Good English communication skills are
+preferred.
+VSD 사업부
+영업
+(Sr. Sales
+Territory Mgr.)
+(경력) 용인 기흥/
+정규직
+-
+Responsible of new account development
+and/or expanding existing accounts within
+an established geographic territory
+-
+Primary responsibility is to sell the company’s
+products, and generally responsible for
+finding and generating new customers
+-
+Typically handles more critical accounts or
+larger territories
+-
+Calls on prospective customers, provides
+technical and administrative product
+information and/or demonstrations, and
+quotes appropriate customer prices
+-
+Represents the company to the customer and
+the customer to the company in sales-related
+matters; understanding of customer’s
+business and product requirements is
+necessary
+-
+Fully knowledgeable about company products
+-
+Responsible for meeting assigned sales quota
+-
+Bachelor's degree or equivalent
+experience with a thorough working
+knowledge of company products,
+company functions, marketing and/or
+service policies and procedures and
+excellent communication skills
+-
+8+ years of related experience required
+-
+Business Development or Sales
+Experience : Experience in identifying
+new business opportunities or handling
+sales in the semiconductor industry,
+particularly with companies dealing in
+devices, equipment, and components.
+-
+Knowledge of Plasma and Vacuum :
+Basic understanding of plasma vacuum
+equipment and experience with related
+components such as RF generator, RF
+match, gauges, and valves.
+-
+Project Management & Execution :
+Experience in identifying new
+opportunities, managing tasks, and
+successfully transitioning to mass
+production.
+-
+Communication Skills : Strong ability to
+understand customer requirements and
+effectively communicate with
+internal stakeholders
+-
+English Proficiency : Experience in taking
+meeting minutes and proposals for
+new business opportunities in English.
+-
+20% of Business Travel required
+[Atotech Korea]
+2022년 8월, MKS의 MSD(Materials Solutions Division) 사업부가 된 아토텍은 우수한 표면 개선, 무전해 및 전해 도금,
+표면 마감 등을 위한 선도 공정 및 제조기술을 개발합니다. 주요 비즈니스는 반도체, 인쇄회로기판 제조(Electronics) 및 일반 도금 표면
+처리(General Metal Finishing)를 위한 프로세스, 서비스 및 장비 공급으로 구성되며, MSD Korea는 서울/장안/부산에 위치하고
+있습니다. MSD 사업부에 대한 자세한 내용 atotech.com/ko를 참조 바랍니다.
+전자사업본부(EL(Electronics)) : PCB, HDI, 패키지기판, 반도체 산업에 필요한 표면처리/도금 화학약품 및 장비 기술,
+소프트웨어의 종합 패키지 공급
+일반도금사업본부(GMF(General Metal Finishing)) : 전처리부터 최종 마감까지 장식 및 기능성 표면처리 각 단계에 필요한
+표면처리/도금 화학약품 및 생산기술의 종합 패키지 공급
+각 사업부문에 대한 자세한 정보는 당사 홈페이지를 참조 바랍니다. atotech.com/ko/products/
+모집직무 근무지/
+채용유형 상세직무 지원자격 및 우대사항
+화약약품
+생산직
+(Production
+Operator)
+(신입/경력) 화성 장안/
+정규직
+1)
+화약약품 제조 공정 운영
+-
+원재료 투입 / 관리 및 제품 포장 업무
+(라벨링 업무)
+-
+제조 설비의 운영 및 간단한 유지보수 업무
+2)
+제품 품질 관리 및 생산 기록 관리
+-
+생산 중 샘플링 및 간단한 품질 검사 진행
+-
+작업 일지 및 생산 기록 작성
+3)
+안전 및 환경 관리
+-
+작업 중 안전 절차 준수 및 설비 점검
+-
+화약물질 취급에 따른 환경 규정 준수
+-
+생산 구역 5S활동 진행
+근무시간 : 오전근무(08:00-17:00)와
+오후근무조(13:00-22:00) 교차근무 진행가능
+(월~금 주 40시간 근무), 주말근무 진행가능
+[지원자격]
+-
+경력 : 무관
+-
+학력 : 고졸 이상
+-
+전공 : 무관
+-
+근무지로 출퇴근이 가능한 자
+[우대사항]
+-
+화학 혹은 기계 관련 공업 고등학교 졸업자 우대
+-
+성실, 근면하며 지원직무 수행에 결격사유가
+없는 자 우대
+-
+경기 화성공장/수원 성균관대역 인근 거주자 우대
+-
+지게차 자격증 소지자 우대
+-
+운전면허 소지자 우대
+구매
+(Procurement)
+(신입/경력) 화성 장안
+/계약직
+(1년)
+-
+Ariba를 통한 비정기 주문 감소를 위해 Global
+Catalog Content 매니저 지원을 통한 Ariba
+카탈로그 수 증가
+-
+Ariba 프로세스의 관문 역할을 수행하며,
+사용자들에게 올바른 절차 안내 및 공급업체
+선택에 대한 명확한 지침 제공
+-
+문서화 포함 간접 구매 관련 행정 업무 및
+문제 관리
+-
+일본 간접 구매 바이어와 지역 간접 구매 매니저
+지원을 통한 데이터 수집
+-
+한국 간접 구매 부서 지원을 통한 구매 활동 강화
+[지원자격]
+-
+일본어 가능자
+-
+근무지로 출퇴근이 가능한 자
+[우대사항]
+-
+영어 가능자 우대
+-
+SAP 경험자 우대
+-
+경기 화성공장/수원 성균관대역 인근 거주자 우대
+-
+운전면허 소지자 우대
+공통 자격/우대사항
+공통 자격 - 남자의 경우 병역필 또는 면제자, 해외근무에 결격사유가 없는자
+공통 우대사항 - 영어 활용 능력 우수자
+전형절차
+서류전형
+면접전형
+오퍼
+최종합격
+면접전형(*면접 횟수, 영어면접여부 등 직무별 상이)
+오퍼(*직무별 배치전검진 진행)
+제출 서류
+[경력] 국문 이력서 및 경력기술서(자유양식) / [신입] 국문 이력서 및 자기소개서(자유양식)
+이력서 상에 반드시 응시분야, 희망연봉 및 연락처(이메일 포함) 필수 기재
+영문 Resume 및 Cover letter 제출 시, 서류전형에서 가점 부여(자유양식)
+영어성적 소지자의 경우, 최종 면접시 영어 공인시험 성적표 사본 제출
+채용절차공정화에 관한 법률 및 개인정보보호법에 의거하여, 입사지원자가 제출한 모든 서류는 반환 청구기간 이후 지체없이
+일체 파기됩니다. (구직자가 서면으로 제출한 채용 서류에 한하여 반환을 청구[recruiting.mkskorea@mksinst.com으로 신청]
+하는 경우, 본인 확인 절차 후 청구일로부터 14일 이내에 등기우편으로 발송하여 드립니다.)
+접수기간 및 방법
+접수 기간 : 2024년 10월 29일(화) ~ 2024년 11월 20일(수) 오후 11시까지
+채용 진행 상황에 따라 부문별 조기마감 또는 변경될 수 있습니다.
+서류전형 합격자에 한하여 다음 전형은 개별 안내 예정입니다.
+접수 방법 : 채용사이트 온라인 입사지원 또는 이메일 입사지원
+[입사지원서 이메일 접수처 : recruiting.mkskorea@mksinst.com]
+복리후생
+성과에 따른 인센티브 지급
+중식제공/식대지원,
+4대보험 직원부담금 일부 지원
+영어어학 교육비 지원, 경조금 지원
+EAP(개인심리상담지원프로그램) 운영,
+단체보험 가입, 종합건강검진 지원
+재택근무 등 유연근무제 적용,
+직원 인재추천 보상프로그램 운영
+출퇴근 보조금/차량유지비 지원,
+통근버스(장안공장<->수원성균관대역
+왕복 1회), 기숙사 지원(장안공장)
+대형 리조트 할인 이용(추첨제),
+사내 동호회 지원
+기타 유의사항
+입사지원 서류에 허위사실이 발견될 경우, 채용확정 이후라도 채용이 취소될 수 있습니다.
+국가유공자예우 등에 관한 법률적용 대상자 또는 등록 장애인은 법령이 정하는 바에 따라 우대합니다.
+해당자의 경우, 지원서 접수 시 해당 사실을 기재해 주시기 바랍니다.
+MKS는 기회 균등 고용주입니다. 우리는 인종, 피부색, 국적, 성별, 종교, 연령, 장애, 군필 여부, 성적 지향, 성 정체성 등에 관계없이
+지원자를 모집하고 고용합니다. 우리의 정책은 모집분야에 가장 적합한 지원자를 고용하는 것입니다.
+경력직 지원자께서는 입사지원 시점부터 채용전형 전체 과정에 걸쳐 전/현직 직장의 영업비밀을 침해하는 일이 없도록
+유의하여 주시기 바랍니다.
+채용절차공정화에 관한 법률 및 개인정보보호법에 의거하여, 입사지원자가 제출한 모든 서류는 반환 청구기간 이후 지체없이
+일체 파기됩니다.
+문의 : Talent Acquisition 이메일(recruiting.mkskorea@mksinst.com)
+혹은 카카오톡 채널(https://pf.kakao.com/_VvPAs) 문의
+회사 소개 자료
+회사 소개 영상
+회사 근무 환경

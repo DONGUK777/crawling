@@ -1,0 +1,34 @@
+2024년 하반기 경력직 공개 채용
+- Landing Zone Specialist
+포지션 및 자격요건
+Landing Zone Specialist 
+담당업무
+ㆍAzure Landing Zone 운영
+ㆍAzure 공유 리소스 관리
+ㆍCI/CD, IaC기반 인프라 운영
+
+경험/역량 
+ㆍAzure Cloud Landing Zone 구축, 운영 경험 3년 이상
+ㆍAzure Cloud 구축, 장애 처리, 모니터링, 백업 등 기술 지원 경험 5년 이상
+
+우대경험/역량
+ㆍAzure, AWS, Google 등 Public Cloud의 아키텍처 설계, 재설계, 튜닝, 최적화 경험
+ㆍKubernetes, Teraform, Ansible 등 DevOps와 관련된 개발, 구축, 설계, 운영 경험
+ㆍPublic Cloud 구축/설계 경험(DevOps, logging, Netwoork, Security 등)
+ㆍAI 기술 지원 경험
+
+근무지
+ㆍ수도권
+
+공통요건
+ㆍ4년제 정규 학사 학위 소지자 
+ㆍ해외여행 및 체류에 결격 사유가 없는 자
+ㆍ남성의 경우 병역필 또는 면제자
+
+기타사항
+ㆍ접수기간 : 2024.11.01 00:00 ~ 2024.11.30 23:59
+ㆍ접수방법 : KT그룹 채용 홈페이지를 통한 온라인 지원
+ㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.
+
+
+   기업 채용 홈페이지 바로가기 click

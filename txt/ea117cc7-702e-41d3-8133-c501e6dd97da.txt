@@ -1,0 +1,39 @@
+㈜메타넷티플랫폼을 소개해요
+메타넷티플랫폼은 클라우드 관련된 A to Z 통합 서비스 제공 및 진정한 의미의 하이브리드 클라우드 실현을 가능하게 해주는
+국내 유일의 End-to-End Hybrid CLOUD Integrator입니다. 온프레미스부터 퍼블릭, 프라이빗, 하이브리드, 멀티 클라우드까지
+고객이 어떠한 인프라 환경과 클라우드 여정에 놓여 있든 그에 맞는 완벽한 지원이 가능하며, 최적의 클라우드 환경 구현을 위해
+도입 컨설팅부터 설계, 구축, 마이그레이션 및 운영, 관리까지 클라우드 전 영역에 걸친 최고의 원스톱 서비스를 제공합니다.
+뿐만 아니라, 자사의 데이터 전문 인력 및 데이터 통합 관리, 개발 역량에 기반해 Infra부터 Data & AI, Application까지 토털 마이그레이션 서비스로 고객의 클라우드 여정을 성공적으로 이끌어줍니다.
+
+이런 업무를 해요
+ㆍAWS,Azure,GCP 등 퍼블릭 클라우드 및 Private Cloud platform에서 운영되는 DB관리
+(Oracle,MySQL,postgreSQL)
+ㆍEnterprise사 시스템 DBA 업무
+이런 분들을 찾고 있어요
+ㆍ학력 : 초대졸이상
+ㆍOracle, SQL Server, MySQL, MariaDB, PostgreSQL 등 On-Premise DB 운영 경험자
+ㆍAWS,Azure,GCP,NCP등 public 및 onpremise private cloud시스템환경 이해자
+ㆍ모니터링 지표를 활용한 RDS, Aurora 등의 State 파악 가능하신 분
+ㆍSQL Query 작성/활용 경험자
+이런 분이면 더 좋아요
+ㆍPython Script 활용 가능자
+ㆍ퍼블릭 클라우드 관련 자격증 소유
+ㆍAzure Cloud 유경험자
+ㆍOpensource 시계열 DB 경험자
+ㆍMass migration 및 CDC 솔루션 관리 경험자
+이런 기술이 필요해요
+MySQL
+Oracle
+PostgreSQL
+이런 조건에서 근무할 예정이에요
+ㆍ고용 형태 : 정규직
+ㆍ근무지 주소 : 서울 강남구 도곡로 182 (도곡동, 양제벤처타워)
+지도보기
+ㆍ근무 요일/시간 : 주5일(월~금) 09:00 ~ 18:00
+합류 여정은 이렇게 진행돼요
+ㆍ서류전형 > 1차면접 > 2차면접 > 임원면접 > 최종합격
+ㆍ면접일정은 추후 통보됩니다.
+이 기간동안 모집해요
+~ 2024. 12. 26 (목)
+지원 시 유의해주세요
+허위사실이 발견될 경우 채용이 취소될 수 있습니다.

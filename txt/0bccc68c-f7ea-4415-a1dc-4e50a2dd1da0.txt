@@ -1,0 +1,29 @@
+[AI] Junior/Senior Research Scientist
+- Data-centric AI (2년~7년)
+포지션 및 자격요건
+Data-centric AI 
+담당업무
+ㆍ딥러닝 모델 개선을 위한 데이터 관점 연구 수행 
+ㆍ데이터 quailty 개선 및 이를 활용한 여러 도메인의 model training/fine-tuning task 수행
+
+필수요건
+ㆍAI top-tier학회 (NeurIPS, ICLR, ICML 등) 논문 작성을 경험하신 분
+ㆍ최신 Deep learning 기술을 이해하고 계신 분
+ㆍPython 등 파이프라인 구축에 필요한 programming 언어에 능숙하신 분
+ㆍPyTorch 등 Deep learning Framework 사용에 능숙하신 분
+ㆍ새로운 domain에 빠르게 적응할 수 있는 분
+ㆍ해외 여행 결격사유가 없는 분
+
+우대사항
+ㆍData/ Multi-modal 관련 주제로 AI top-tier학회 논문 작성을 경험하신 분 
+ㆍ데이터 수집, 처리부터 모델 개발 및 학습까지의 Deep learning 모델 개발 cycle을 경험하신 분
+ㆍ다양한 domain의 Deep learning 프로젝트를 경험하신 분
+ㆍ주어진 과제에 끈기와 책임감을 가질 수 있는 분
+
+기타사항
+ㆍ접수기간 : 상시채용 (채용 시 조기에 마감될 수 있습니다.)
+ㆍ접수방법 : 당사 채용 홈페이지 참조
+ㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.
+
+
+   기업 채용 홈페이지 바로가기 click

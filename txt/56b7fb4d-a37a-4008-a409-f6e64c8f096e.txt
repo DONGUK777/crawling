@@ -1,0 +1,725 @@
+공고명 모집분야 근무지
+[CoE] 개발/운영 및 Governance 체계 수립
+- Backend/DevOps/Frontend Engineer
+Backend Engineer
+서울
+DevOps Engineer
+서울
+Frontend Engineer
+서울
+[전기차 충전 플랫폼] 충전 로밍플랫폼 개발팀장
+전기차 충전 로밍 플랫폼 개발 팀장
+서울
+[전기차 충전 플랫폼] Business Developer - 사업 기획
+EV충전사업 기획
+서울
+[전기차 충전 플랫폼] Business Developer
+- 영업 전략 및 계약/사업관리
+EV충전사업 영업 전략 및 계약/사업관리
+서울
+[전장] Platform SW Developer
+AP용 이더넷 미들웨어 공급 담당 PL
+서울
+Classic AUTOSAR 플랫폼 통합 개발,
+신규 MCU 포팅 및 레퍼런스 플랫폼 개발
+서울
+차량 사이버보안 솔루션 개발
+서울
+차량통합제어용 임베디드 SW 개발
+서울
+[전장] Platform SW Developer - Adaptive Autosar
+Adaptive AUTOSAR 개발
+서울
+[전장] Platform SW Developer - Classic Autosar
+AUTOSAR Classic 기능 모듈 BSW 개발자
+서울
+mobilgene Classic 플랫폼의 CAN, LIN, ETH 등
+통신스텍 개발 및 지원
+서울
+[전장] Platform SW Developer - HSM
+차량 제어기용 HSM 운영스택 개발
+서울
+[전장] Platform SW Developer - OTA
+제어기 OTA 솔루션 개발
+서울
+[전장] Platform SW Developer - 전동화
+전동화 SW 플랫폼 개발
+서울
+[전장] Quality Control Engineer
+차량 도메인 제어기 SW 검증
+서울
+[전장] Quality Assurance Engineer
+양산 보증
+서울
+품질 점검
+서울
+필드 이슈 조치 및 고객 대응
+서울
+[전장] Process Engineer
+국제표준프로세스 기반 제품 관리 및
+프로세스 개정, 운영
+서울
+[전장] Embedded SW Project Manager
+전동화 제어기 Platform SW Project Manager
+서울
+[전장] Mobility Security Engineer
+차량용 암호 알고리즘 및 암호분야 선행기술 개발/검증
+서울
+[원자력] Business Developer - SMR 신사업 기획/개발 리딩
+SMR_소형모듈원자로_신사업 기획/개발 리딩
+서울
+[내비게이션/지도] Platform SW Developer
+Navigation Controller 개발
+서울
+Navigation Engine/Controller개발
+서울
+내비게이션 데이터 분석 시스템 개발 및 운영
+서울
+[내비게이션/지도] Application SW Developer
+내비게이션 응용 SW 기술 개발_HMI 엔진
+서울
+[내비게이션/지도] Quality Control Engineer
+MCP 품질 평가 및 관리
+서울
+길안내/교통정보 데이터 분석 및 평가
+서울
+길안내/교통정보 품질 평가 및 관리
+서울
+내비게이션 SW 품질관리
+서울
+내비게이션 SW시스템 품질 평가
+서울
+내비게이션 시스템 평가
+서울
+내비게이션SW 커넥티비티 기능의
+E2E_EndToEnd 프로토콜 검증
+서울
+차량SW 평가 툴 개발/운영
+서울
+[내비게이션/지도] GIS Data Planner
+지도 2D, 3D 데이터 구축 및 운영 관리
+서울
+[내비게이션/지도] GIS Data Engineer
+국내/해외 정밀지도 포맷 설계 및 변환기 개발
+서울
+내비게이션 서비스용 지도 개발
+서울
+[내비게이션/지도] GIS Data Scientist
+길안내 서비스 개발
+서울
+[내비게이션/지도] Embedded SW Project Manager
+내비게이션 SW 개발 PL
+서울
+내비게이션 SW 개발 PM
+서울
+[내비게이션/지도] Embedded SW Product Owner
+GIS 센터 교통정보 PM/PL
+서울
+내비게이션 SW 선행 프로젝트 기획/관리
+서울
+[내비게이션/지도] UX/UI/Content Designer
+자동차 내비게이션, 모바일 앱 관련 다국어
+프로세스 개선 및 관리
+서울
+[내비게이션/지도] Backend Developer
+경로탐색 서비스 모듈화를 통한 공용 라이브러리 개발
+서울
+국내/글로벌 콘텐츠 서비스 제공을 위한
+백엔드 어플리케이션 개발 및 아키텍쳐 설계
+서울
+국내/해외 콘텐츠 서비스 개발 및 운영
+서울
+국내외 음성인식서비스 개발 및 운영
+서울
+[내비게이션/지도] Server Engineer
+센터 경로탐색 서비스 운영
+서울
+[내비게이션/지도] Business Manager
+CP 데이터 품질 관리
+서울
+내비게이션사업 비즈니스 매니징 & 프라이싱 모델
+수립 및 신사업 검토
+서울
+[Vehicle IT 검증] Platform SW Developer
+CLASSIC AUTOSAR 기반 가상제어기 개발
+서울
+HW 기반 가상 제어기 모델 개발
+서울
+[Vehicle IT 검증] Quality Control Engineer
+FMU기반 가상검증 통합시뮬레이터 개발
+서울
+차량 제어시스템 검증
+서울
+[Vehicle IT 검증] Process Consultant
+A-SPICE 프로세스 및 산출물 컨설팅 전문가
+서울
+기능안전
+서울
+[Vehicle IT 검증] Engineering Service
+차량 제어기 HILS 개발 및 검증
+서울
+[Vehicle IT 검증] Application SW Developer
+- SW 개발환경
+차량SW CI/CD/CT 개발
+서울
+[Vehicle IT 검증] Process Engineer
+- DevOps 운영
+SW 표준 형상관리 운영 및 클라우드 운영 서비스
+서울
+[Vehicle IT 검증] Backend Developer
+- SW 개발환경
+REST API 기반 백엔드시스템 개발
+서울
+[모빌리티/커넥티드카] Quality Control Engineer
+커넥티드카 서비스 품질 평가
+서울
+[모빌리티/커넥티드카] Frontend Developer
+간편결제 시스템
+서울
+빅데이터 기반 플랫폼 개발
+서울
+[모빌리티/커넥티드카] Backend Developer
+Backend Developer
+서울
+[모빌리티/커넥티드카] Backend Developer
+- 전기차 충전 플랫폼
+EV플랫폼(CPOS, V2X서비스) 개발
+서울
+EV플랫폼(eMSP, 고객&제휴서비스) 개발
+서울
+[모빌리티/커넥티드카] Backend Developer
+- 차량 사이버 보안
+차량 사이버 보안 시스템 개발/운영
+서울
+[모빌리티/커넥티드카] Backend Developer
+- 커넥티드카 서비스
+CCS 글로벌 센터 전개 개발 및 운영
+서울
+글로벌 차량연계데이터 수집 VCRM 서비스 개발/운영
+서울
+글로벌 커넥티드카서비스 PL
+서울
+글로벌 커넥티드카서비스 개발/운영
+서울
+커넥티드카서비스 개발/운영
+서울
+[모빌리티/커넥티드카] Platform Engineer
+미들웨어 운영_WEB/WAS
+서울
+[모빌리티/커넥티드카] Technical Architect
+커넥티드카 서비스 TA/AA
+서울
+[모빌리티/커넥티드카] Database Administrator
+DBA
+서울
+[모빌리티/커넥티드카] Project Manager
+완성차 고객채널/브랜드웹사이트 구축 PM
+서울
+[스마트팩토리] Frontend Developer
+스마트팩토리 서비스 개발
+서울
+스마트팩토리 솔루션 개발
+서울
+[스마트팩토리] Frontend Developer - 광명
+품질완결 시스템 개발
+광명
+[스마트팩토리] Backend Developer
+DPL 시스템 운영
+서울
+IT+OT 융합시스템 개발
+서울
+비전 AI 모델 개발
+서울
+스마트팩토리 서비스 개발/운영
+서울
+스마트팩토리 서비스 개발/운영
+서울
+스마트팩토리 솔루션 개발
+서울
+에너지관리시스템 개발
+서울
+[스마트팩토리] Backend Developer - PLC개발
+PLC엔지니어링
+서울
+[스마트팩토리] App Developer
+모바일 서비스 및 FW 개발/운영
+서울
+[스마트팩토리] Solution Developer
+머신비전 시스템 개발
+서울
+[스마트팩토리] Platform Developer
+SDF IoT
+서울
+스마트팩토리 3D 어플리케이션개발
+서울
+[스마트팩토리] AI Researcher
+스마트팩토리 AI Researcher
+서울
+[스마트팩토리] Data Architect
+스마트팩토리 솔루션/서비스 데이터 아키텍트
+서울
+[스마트팩토리] Project Manager
+FactoryBI 국내/해외 확대전개 프로젝트 PM/PL
+서울
+IT+OT 융합시스템 PM
+서울
+스마트팩토리 솔루션 구축 PM
+서울
+스마트팩토리 플랫폼기반 개발/구축 PM
+(디지털트윈/PHM)
+서울
+스마트팩토리 플랫폼기반 개발/구축 PM(스마트태그)
+서울
+[스마트팩토리] Business Analyst
+스마트팩토리 PI컨설팅/수준진단
+서울
+[스마트팩토리] Business Developer
+SF 상품 및 사업/수익모델 기획
+서울
+[스마트팩토리] Sales/Marketing Manager
+스마트팩토리 기술 영업
+서울
+[스마트팩토리] Service Engineer
+스마트태그 시스템 개발/운영
+화성
+[스마트팩토리] Service Engineer - AI
+생성형AI 기반 서비스 기획 및 개발
+서울
+[스마트팩토리] Service Engineer - 광명
+스마트태그 시스템 개발/운영
+광명
+[스마트팩토리] Service Engineer - 울산
+스마트태그 시스템 개발/운영
+울산
+[스마트팩토리] Engineering Service
+제조품질시스템 구축/운영 지원
+서울
+품질완결 시스템 개발
+화성
+[스마트팩토리] Engineering Service - 아산
+품질완결 시스템 개발/운영
+아산
+[스마트팩토리] Engineering Service - 울산
+품질완결 시스템 개발/운영
+울산
+[스마트팩토리] Backend Developer - MES운영
+MES시스템 개발/운영
+서울
+[스마트팩토리] Business Analyst - MES운영
+MES시스템 개발/운영
+서울
+[스마트팩토리] Service Engineer - MES운영 - 울산
+MES 운영기획/개발
+울산
+[엔터프라이즈IT] Frontend Developer
+기업용 커뮤니케이션시스템 개발/운영
+서울
+[엔터프라이즈IT] Frontend Developer - 금융
+금융 채널계 시스템 운영
+서울
+Sales/Marketing Manager
+기술영업
+서울
+[엔터프라이즈IT] Backend Developer
+AS 부품시스템 개발/운영
+서울
+건축 및 자산관리 시스템 운영
+서울
+구매/물류 시스템 운영
+서울
+구매시스템 개발/운영
+서울
+그룹웨어서비스 개발 및 운영
+서울
+기업용 커뮤니케이션시스템 개발/운영
+서울
+디지털채널시스템 개발/운영
+서울
+엔터프라이즈IT 서비스 백엔드 개발
+서울
+이커머스시스템 개발/운영
+서울
+현대모비스 AS부품시스템 운영
+서울
+[엔터프라이즈IT] Backend Developer - CX플랫폼
+BMS/DPL 시스템 운영
+서울
+고객센터 시스템 운영
+서울
+멤버십 시스템 개발/운영
+서울
+생성형 AI 서비스 기획/개발
+서울
+[엔터프라이즈IT] Backend Developer - 건설
+IT 시스템 운영
+서울
+Web/모바일App 시스템 개발/운영
+서울
+[엔터프라이즈IT] Backend Developer - 금융
+여신금융 처리계 시스템 개발/운영
+서울
+[엔터프라이즈IT] Solution Developer - 의왕
+CATIA V5 설계지원 프로그램 개발/운영
+의왕
+[엔터프라이즈IT] Backend Developer - 당진/예산
+MES 플랫폼 구축 및 운영
+당진
+MES 플랫폼 구축 및 운영
+예산
+[엔터프라이즈IT] Backend Developer - 사내 시스템
+계정관리 시스템 개발/운영
+서울
+[엔터프라이즈IT] Backend Developer - 생산기술시스템
+생산계획시스템 개발/운영
+서울
+[엔터프라이즈IT] Backend Developer
+- 스마트홈 플랫폼 서비스
+스마트홈 플랫폼 서비스
+서울
+[엔터프라이즈IT] Backend Developer - 연구개발시스템
+연구소기술시스템팀 시스템 운영/개발
+서울
+[엔터프라이즈IT] Backend Developer - 철강
+전자상거래 및 물류시스템 설계/개발/운영
+판교
+[엔터프라이즈IT] Platform Developer
+ESG플랫폼 서비스 개발/운영
+서울
+[엔터프라이즈IT] Platform Developer - 금융
+금융시스템 개발/운영
+서울
+[엔터프라이즈IT] Technical Architect
+Application Architect
+서울
+ITSM 플랫폼 운영
+서울
+[엔터프라이즈IT] Solution Architect
+ITOM 플랫폼 운영
+서울
+Microsoft 365 구축/운영
+서울
+Microsoft Lync 2013 기반 메신저 개발/운영
+서울
+[엔터프라이즈IT] Data Architect
+DA
+서울
+[엔터프라이즈IT] Database Administrator
+DB 성능 최적화
+서울
+[엔터프라이즈IT] Database Administrator - 금융
+DBMS 운영
+서울
+[엔터프라이즈IT] Project Manager
+3D 컨텐츠/솔루션 제작
+서울
+SI 프로젝트 PM
+서울
+스마트오피스 SW플랫폼 구축 PM
+서울
+자동화 설비 및 SI 프로젝트 관리
+서울
+프로젝트 PM/PMO/PL
+서울
+프로젝트관리
+서울
+[엔터프라이즈IT] QA Manager
+SI프로젝트 진단
+서울
+국내/외 IT Governance 관리,
+IT Process 설계 및 개선
+서울
+[엔터프라이즈IT] Business Analyst
+계정관리 시스템 설계
+서울
+품질시스템 개발/운영
+서울
+[엔터프라이즈IT] UX/UI Planner - 금융
+웹/앱 UX/UI PM
+서울
+[엔터프라이즈] Product Owner
+모바일 어플리케이션 기획
+서울
+[엔터프라이즈IT] Sales/Marketing Manager - 금융
+금융SI영업
+서울
+[엔터프라이즈IT] Sales/Marketing Manager - 스마트오피스
+스마트오피스 SW플랫폼 서비스기획 및 사업개발
+서울
+[엔터프라이즈IT] Service Engineer
+웹시스템 기획/설계/운영
+서울
+[엔터프라이즈IT] Service Engineer - MES운영 - 광주
+MES시스템 개발/운영
+광주
+[엔터프라이즈IT] Service Engineer - MES운영 - 서산
+MES시스템 개발/운영
+서산
+[엔터프라이즈IT] Frontend Developer - HR
+현대차/기아 인사시스템 개발/운영
+서울
+[엔터프라이즈IT] Solution Developer - ERP(SAP) - 군포
+ERP HR 시스템 개발/운영
+군포
+[엔터프라이즈IT] Solution Developer - ERP(SAP) HR
+현대차/기아 인사시스템 개발/운영
+서울
+[엔터프라이즈IT] Solution Architect - ERP(SAP) BI
+SAP_ERP구축_BI
+서울
+[엔터프라이즈IT] Solution Architect
+- ERP(SAP) FI/CO/PS
+SAP_ERP구축_CO/PS
+서울
+[엔터프라이즈IT] Solution Architect - ERP(SAP) MM/SD
+SAP ERP개발/운영_MM/SD
+울산
+[엔터프라이즈IT] Solution Architect - ERP(SAP) PP
+SAP ERP개발/운영_PP
+울산
+[엔터프라이즈IT] Solution Architect - ERP(SAP) WF
+SAP_ERP 컨설팅/개발_WF
+서울
+[엔터프라이즈IT] Solution Architect - ERP
+(SuccessFactors)
+SuccessFactors_솔루션 구축/운영
+서울
+[엔터프라이즈IT] Solution Developer - CRM(Salesforce)
+SalesForce_CRM 구축/운영
+서울
+SalesForce_CRM시스템 개발/운영
+서울
+[엔터프라이즈IT] Business Analyst - CRM(Salesforce)
+차세대 CRM 컨설컨트_BA
+서울
+[AI] AI Researcher
+AI Researcher
+서울
+AI 데이터 사이언티스트
+서울
+AI 서비스 개발_대화/언어 서비스
+서울
+AI 서비스 기획/PO
+서울
+AI 컴퓨터 비전 기술 개발
+서울
+MLOps/AI 검색 엔지니어
+서울
+[데이터기술] Platform Engineer
+모비스 빅데이터 플랫폼 및 데이터 파이프라인 운영
+서울
+서비스플랫폼 구축/운영
+서울
+[데이터기술] Data Architect
+DA
+서울
+[데이터기술] Database Administrator
+현대자동차그룹 DBMS 운영/관리_DBA
+서울
+[클라우드/인프라] Backend Developer
+EAI 인터페이스 개발
+서울
+[클라우드/인프라] Solution Developer
+Elasticsearch 구축/운영
+서울
+[클라우드/인프라] Platform Developer
+Application 모니터링 시스템 운영 및 개발
+서울
+EAI 솔루션 개발/운영
+서울
+[클라우드/인프라] Platform Engineer
+IIS엔지니어
+서울
+Kafka_MSK 구축/운영
+서울
+미들웨어 운영-WEB/WAS
+서울
+클라우드 인프라 모니터링 솔루션 운영
+서울
+클라우드플랫폼 구축/운영
+서울
+[클라우드/인프라] Technical Architect
+AWS TA
+서울
+[클라우드/인프라] Technical Architect - AWS 서비스
+구축/운영
+AWS 서비스 구축/운영
+서울
+[클라우드/인프라] Server Engineer
+인프라 운영/관리
+서울
+[클라우드/인프라] Network Engineer
+그룹사 네트웍 기획/운영/관리
+창원
+그룹사/현대자동차/기아 네트웍 기획/운영/관리
+서울
+기아자동차 화성공장 네트웍 기획/운영/관리
+화성
+네트웍 기획/운영
+서울
+네트웍 모니터링 시스템 개발/운영
+서울
+데이터센터 네트웍 구축/운영
+서울
+현대자동차 울산공장 네트웍 기획/운영/관리
+용인
+현대자동차 전주공장 네트웍 기획/운영/관리
+전주
+[클라우드/인프라] IDC Architect
+IDC 구축/운영
+파주/의왕/
+광주광역시/
+울산
+[클라우드/인프라] Business Developer
+상품 및 사업/수익모델 기획
+서울
+[보안] Backend Developer
+보안 데이터/통계 시스템 개발
+서울
+보안 취약점 관리 시스템 개발/피싱 모의훈련 플랫폼
+운영
+서울
+[보안] Security Manager
+개인정보 담당
+서울
+보안 점검
+서울
+보안 정책 수립 및 운영
+서울
+완성차 해외법인 보안솔루션 운영진단 및 개선
+서울
+[보안] Security Engineer
+M365 보안운영
+서울
+개인정보 모니터링 시스템 운영
+서울
+그룹사 보안솔루션 구축/운영_서울
+서울
+그룹사 보안솔루션 구축/운영_의왕
+의왕
+네트웍 영역 보안시스템 구축/운영
+서울
+보안 업무시스템 개발/운영_DevSecOps
+서울
+보안로그 모니터링 시스템 구축 및 운영 관리
+서울
+보안시스템 운영 - 일본_원격운영
+서울
+서버 영역 보안시스템 구축/운영
+서울
+엔드포인트 보안시스템 운영관리
+서울
+완성차 서비스 보안기획/관리
+서울
+클라우드 보안성 검토 및 형상관리
+서울
+퍼블릭클라우드 3rd party 네트워크 보안솔루션
+구축 및 운영 관리
+서울
+[보안] Security Engineer - 광명
+OT_생산망 보안 구축/운영
+광명 소하
+[보안] Security Engineer - 광주
+OT_생산망 보안 구축/운영
+광주
+[보안] Security Engineer - 아산
+OT_생산망 보안 구축/운영
+아산
+[보안] Security Engineer - 울산
+OT_생산망 보안 구축/운영
+울산
+[보안] Security Engineer - 화성
+OT_생산망 보안 구축/운영
+화성
+[보안] Security Architect
+보안 서비스 기획
+서울
+보안솔루션 구축 PM
+서울
+클라우드 보안 기획/설계
+서울
+[보안] Security Analyst
+보안데이터 기반 인사이트 발굴
+서울
+보안위협 분석
+서울
+[보안] CERT
+사이버 보안 침해사고 분석가
+서울
+[보안] Security Consultant
+완성차 보안성 검토
+서울
+[보안] Mobility Security Engineer
+차량보안진단
+서울
+[보안] Solution Architect
+보안솔루션 시스템 운영 및 관리
+서울
+[전략기획] Business developer - 차량SW 상품기획
+차량SW 상품기획/개발
+서울
+[전략기획] Strategy
+사업전략 기획
+서울
+전사 전략 및 경영 기획
+서울
+[경영지원] HRM - Talent Acquisition
+Talent Acquisition
+서울
+[경영지원] HRM - 인력운영
+ER
+서울
+조직
+서울
+[경영지원] HRM - 인사기획/운영
+인사 기획/운영
+서울
+[경영지원] HRM - 채용 전략/브랜딩
+채용 전략/브랜딩
+서울
+[경영지원] HRD
+HRD_직무/기술
+서울
+[경영지원] GA(General Affairs) - 총무/복리후생
+총무/복리후생제도 기획 및 운영
+서울
+[경영지원] Accounting
+세무회계
+서울
+[경영지원] Finance
+경영분석
+서울
+[경영지원] Cooperation - IT 구매/계약 및 준법도급 관리
+IT 구매/계약 및 준법도급 관리
+서울
+[경영지원] Cooperation - 준법도급 기획 및 운영 - 울산/광명
+준법도급 운영 및 리스크 관리
+광명
+[경영지원] Legal
+사내 변호사
+서울
+사내 변호사_미국변호사 자격소지자
+서울
+공통자격요건
+해외여행 및 근무에 결격사유가 없는 분(남자의 경우, 병역을 마쳤거나 면제받은 분)
+최종합격 후 회사가 지정하는 입사일에 입사 가능하신 분
+모집기간
+채용 시 마감
+채용 절차
+지원서 접수/
+서류전형
+직무역량테스트/
+인성검사
+면접전형
+(1차/2차)
+처우협의/
+채용검진
+최종합격
+* 직무역량테스트(코딩 또는 과제테스트)
+기타사항
+지원서의 내용이 사실과 다르거나 문서로 증빙이 불가할 경우, 합격이 취소되거나 전형상의 불이익을 받을 수 있습니다.
+장애인 및 국가보훈 취업지원 대상자는 관계 법령에 의거하여 우대합니다.
+전형 단계별 합격자 발표는 개별 연락 예정입니다.
+채용 절차 및 일정은 일부 변동될 수 있습니다.
+모집 분야 및 담당 업무에 따라 영어 구술평가, 레퍼런스 체크, 또는 기타 전형이 실시될 수 있습니다.
+지원자의 경험과 역량을 고려하여 다른 포지션이 더 적합하다고 판단되는 경우, 지원 분야가 변경될 수 있습니다.
+홈페이지 입사 지원하기
